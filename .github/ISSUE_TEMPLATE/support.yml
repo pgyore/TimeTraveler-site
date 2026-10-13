@@ -1,5 +1,5 @@
 name: Question or problem
-description: Ask about TimeTraveler or report a problem.
+description: Ask about Time Traveler or report a problem.
 body:
   - type: markdown
     attributes:
@@ -18,6 +18,6 @@ body:
   - type: input
     id: version
     attributes:
-      label: TimeTraveler version
+      label: Time Traveler version
       description: Tap the gear, then the info button, and look under What's New.
       placeholder: 1.0 (1)
